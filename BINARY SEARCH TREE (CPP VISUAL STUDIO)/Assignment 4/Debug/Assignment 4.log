@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Abdullah123\source\repos\Assignment 4\Assignment 4\BST.h(45): warning C4715: 'BST::remove': not all control paths return a value
+C:\Users\Abdullah123\source\repos\Assignment 4\Assignment 4\BST.h(66): warning C4715: 'BST::findLocation': not all control paths return a value
+C:\Users\Abdullah123\source\repos\Assignment 4\Assignment 4\BST.h(89): warning C4715: 'BST::findParent': not all control paths return a value
+C:\Users\Abdullah123\source\repos\Assignment 4\Assignment 4\BST.h(93): warning C4715: 'BST::findGreatest': not all control paths return a value
+C:\Users\Abdullah123\source\repos\Assignment 4\Assignment 4\BST.h(62): warning C4715: 'BST::find': not all control paths return a value
+  Assignment 4.vcxproj -> C:\Users\Abdullah123\source\repos\Assignment 4\Debug\Assignment 4.exe

@@ -1,0 +1,20 @@
+﻿  ArrayList.cpp
+  Source.cpp
+C:\Users\Abdullah123\source\repos\ArrayList\ArrayList\HashMap.h(37,1): error C2446: '==': no conversion from 'type1' to 'type1 *'
+          with
+          [
+              type1=int
+          ]
+C:\Users\Abdullah123\source\repos\ArrayList\ArrayList\HashMap.h(37,29): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\Abdullah123\source\repos\ArrayList\ArrayList\HashMap.h(35): message : while compiling class template member function 'bool HashMap<int,int>::search(type1,int *)'
+          with
+          [
+              type1=int
+          ]
+C:\Users\Abdullah123\source\repos\ArrayList\ArrayList\HashMap.h(28): message : see reference to function template instantiation 'bool HashMap<int,int>::search(type1,int *)' being compiled
+          with
+          [
+              type1=int
+          ]
+C:\Users\Abdullah123\source\repos\ArrayList\ArrayList\Source.cpp(6): message : see reference to class template instantiation 'HashMap<int,int>' being compiled
+  Generating Code...
