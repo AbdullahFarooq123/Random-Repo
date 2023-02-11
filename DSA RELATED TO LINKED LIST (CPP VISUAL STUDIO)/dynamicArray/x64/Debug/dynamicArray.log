@@ -1,0 +1,8 @@
+﻿  bracketsValidity.cpp
+C:\Users\Abdullah123\source\repos\dynamicArray\dynamicArray\bracketsValidity.cpp(6,110): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  postFixExpression.cpp
+  Source.cpp
+C:\Users\Abdullah123\source\repos\dynamicArray\dynamicArray\Source.cpp(223,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Abdullah123\source\repos\dynamicArray\dynamicArray\Source.cpp(232,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  dynamicArray.vcxproj -> C:\Users\Abdullah123\source\repos\dynamicArray\x64\Debug\dynamicArray.exe

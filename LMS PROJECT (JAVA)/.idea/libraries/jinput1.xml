@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="jinput1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jaco-mp3-player-0.9.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jlayer1.0.1.zip!/" />
+      <root url="jar://$USER_HOME$/Desktop/AbsoluteLayout.jar!/" />
+      <root url="file://$PROJECT_DIR$/Libs/jars" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jlayer1.0.1.zip!/JLayer1.0.1/doc" />
+      <root url="file://$PROJECT_DIR$/Libs/lwjgl/javadoc" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/Libs/lwjgl/native/windows" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jlayer1.0.1.zip!/JLayer1.0.1/src" />
+      <root url="jar://$USER_HOME$/Downloads/Compressed/jlayer1.0.1.zip!/JLayer1.0.1/srctest" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/Libs/jars" recursive="false" />
+  </library>
+</component>

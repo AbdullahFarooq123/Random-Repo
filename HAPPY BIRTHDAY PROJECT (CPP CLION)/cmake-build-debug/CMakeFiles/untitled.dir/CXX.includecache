@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Abdullah123/CLionProjects/untitled/cake.h
+iostream
+-
+
+C:/Users/Abdullah123/CLionProjects/untitled/main.cpp
+conio.h
+-
+cake.h
+C:/Users/Abdullah123/CLionProjects/untitled/cake.h
+Windows.h
+-
+thread
+-
+stdio.h
+-
+MMsystem.h
+-
+

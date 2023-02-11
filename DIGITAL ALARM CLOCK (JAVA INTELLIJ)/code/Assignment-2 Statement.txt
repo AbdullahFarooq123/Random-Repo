@@ -1,0 +1,7 @@
+write a class having  a array list of music songs  
+maintained with their indexes as well, 
+Ask the user to enter the
+index to play the song, upon entering the index, 
+its corresponding index song should be start.
+due date: 30-june-2020
+

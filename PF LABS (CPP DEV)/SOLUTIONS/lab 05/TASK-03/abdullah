@@ -1,0 +1,64 @@
+#include <iostream>
+#include <windows.h>
+#include <conio.h>
+#include <string>
+
+using namespace std ;
+
+
+void cin_clear ( string line , string error = "No character or a negative value !" )
+
+{
+	
+	cout << error ;
+	Sleep (2000) ;
+	system("CLS") ;
+	cin.clear () ;
+	cin.ignore ( INT_MAX , '\n' ) ;
+	cout << line ;
+
+}
+
+int continuationLoop ()
+
+{
+	
+	system("pause") ;
+	
+	bool check = true , flag = true ;
+	
+	char option ;
+	
+	while ( check )
+			
+			{
+					
+				system("CLS") ;
+				
+				cout << "Do you want to continue (y/n) : " ;
+			
+				option = getch() ;
+				
+				if ( option == 'y' )
+				
+				{
+					
+					system ("CLS") ;
+					
+					return 1 ;
+				
+				}
+				
+				else if ( option == 'n' )
+				
+				{
+					
+					return 0 ;
+						
+				}
+				
+				
+
+			}
+	
+}

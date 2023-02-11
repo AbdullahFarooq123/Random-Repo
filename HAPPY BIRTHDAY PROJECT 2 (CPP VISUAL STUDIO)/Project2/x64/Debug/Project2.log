@@ -1,0 +1,6 @@
+﻿  cake.cpp
+C:\Users\Abdullah123\source\repos\Project2\Project2\cake.cpp(16,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol __imp_PlaySoundW referenced in function "public: void __cdecl <lambda_f27b761259d8dd8414775278c56e27ac>::operator()(void)const " (??R<lambda_f27b761259d8dd8414775278c56e27ac>@@QEBAXXZ)
+C:\Users\Abdullah123\source\repos\Project2\x64\Debug\Project2.exe : fatal error LNK1120: 1 unresolved externals

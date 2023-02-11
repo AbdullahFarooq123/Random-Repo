@@ -1,0 +1,3 @@
+﻿  checkBrackets.cpp
+C:\Users\Abdullah123\source\repos\Stack\Stack\checkBrackets.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  Stack.vcxproj -> C:\Users\Abdullah123\source\repos\Stack\Debug\Stack.exe

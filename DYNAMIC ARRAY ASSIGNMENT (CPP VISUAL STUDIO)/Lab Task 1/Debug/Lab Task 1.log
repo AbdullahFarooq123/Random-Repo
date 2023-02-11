@@ -1,0 +1,7 @@
+﻿  Array.cpp
+  ArrayTest.cpp
+  SArray.cpp
+  flexArray.cpp
+  Generating Code...
+C:\Users\Abdullah123\source\repos\Lab Task 1\Lab Task 1\Array.cpp(121): warning C4172: returning address of local variable or temporary: C
+  Lab Task 1.vcxproj -> C:\Users\Abdullah123\source\repos\Lab Task 1\Debug\Lab Task 1.exe
